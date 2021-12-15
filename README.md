@@ -1,11 +1,4 @@
-dsfdsfdsf
-sdf
-dsdf
-dsasdsad
-asd
-asdasd
-asdas
-dsa
+asdasdsad
 # Rabbit-Objc
 
 ### Cocoapods
